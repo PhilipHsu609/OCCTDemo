@@ -1,5 +1,7 @@
 # OCCTDemo
 
+![OCCTDemo](.github/media/occtdemo.png)
+
 This is a demo project to show how to use OCCT (Open Cascade Technology) to display CAD models in a Windows Forms application.
 
 ## Prerequisites
